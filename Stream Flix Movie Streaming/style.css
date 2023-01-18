@@ -29,7 +29,7 @@ body {
 
 .logo {
   font-size: 30px;
-  color: #4dbf00;
+  color: rgba(238, 72, 55, 255);
 }
 
 .menu-container {
@@ -176,7 +176,8 @@ body {
 .movie-list-item:hover .movie-list-item-title,
 .movie-list-item:hover .movie-list-item-desc,
 .movie-list-item:hover .movie-list-item-button {
-  opacity: 1;
+  opacity: 1.5;
+  color: white;
 }
 
 .movie-list-item-img {
@@ -188,7 +189,7 @@ body {
 }
 
 .movie-list-item-title {
-  background-color: #333;
+  /* background-color: rgb(157, 157, 157); */
   padding: 0 10px;
   font-size: 32px;
   font-weight: bold;
@@ -200,7 +201,7 @@ body {
 }
 
 .movie-list-item-desc {
-  background-color: #333;
+  /* background-color: #333; */
   padding: 10px;
   font-size: 14px;
   position: absolute;
