@@ -1,0 +1,30 @@
+main {
+  padding: 57px 27px;
+  color: white;
+}
+
+.main--title {
+  margin: 0;
+  font-size: 39px;
+  letter-spacing: -0.05em;
+}
+
+.main--facts {
+  margin-top: 46px;
+  max-width: 400px;
+}
+
+.main--facts > li {
+  line-height: 19px;
+  padding-block: 10px;
+  /* padding block allows padding on top and bottom  */
+}
+
+/* ::marker {
+  color: #61dafb;
+} */
+
+.main--facts > li::marker {
+  font-size: 2rem;
+  color: #61dafb;
+}
