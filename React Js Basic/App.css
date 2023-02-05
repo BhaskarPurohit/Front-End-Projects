@@ -1,0 +1,28 @@
+.blank {
+  text-align: center;
+  display: flex;
+  color: green;
+  font-size: 50px;
+}
+
+.navbar {
+  list-style-type: none;
+
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 2%;
+  /* margin-left: 50%; */
+  /* margin-top: 20%; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar li:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.heading {
+  margin-top: 20%;
+  margin-left: 40%;
+}
