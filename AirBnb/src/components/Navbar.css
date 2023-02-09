@@ -1,9 +1,15 @@
 .nav--logo {
-  /* max-width: 100px; */
-  height: fit-content;
-  margin-bottom: 15px;
-  padding: 0;
-  margin-top: 0;
-  margin-bottom: 15px;
-  background-color: blue;
+  max-width: 100px;
+  margin-bottom: 5%;
+  margin-left: 35%;
+  margin-top: 3%;
+
+  /* background-color: blue; */
+}
+
+nav {
+  /* width: 40px; */
+  /* height: 4%; */
+  /* background-color: yellow; */
+  padding: 1%;
 }
