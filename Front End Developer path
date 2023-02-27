@@ -1,0 +1,24 @@
+1. Debouncing and Throttling
+2. Async and Defer
+3. Polyfills
+    1. map, reduce and filter
+    2. bind, call and apply
+    3. promise.all
+4. Event loop
+5. Let, Var and Const (differences)
+6. Flatten array and object
+7. Promises
+8. Prototype Chaining
+9. Higher order functions
+10. Shadow DOM
+11. Function currying
+12. Event bubbling, Event Capturing (Tickling)
+13. Event Delegation
+14. How to optimize an HTML page
+15. Closures
+16. React Hooks
+    1. useState, useReducer
+    2. useEffect
+    3. useCallback
+    4. useMemo
+17. React Context API
